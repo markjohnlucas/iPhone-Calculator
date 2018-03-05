@@ -13,5 +13,4 @@ The application can carry out the following:
 
 <h4> Feel free to download this project and customise it to meet your own personal preference. </h4>
 
-
-<img src= "https://user-images.githubusercontent.com/10834045/35759066-44cd2aa8-086f-11e8-8750-2998fc2cf70a.png" width="260" alt="App Screenshot">   <img src= "https://user-images.githubusercontent.com/10834045/35759068-44ed20b0-086f-11e8-94cf-961e06d8a306.png" width="260" alt="App Screenshot">   <img src= "https://user-images.githubusercontent.com/10834045/35759561-40c61ea8-0872-11e8-9d09-949e97b005a4.png" width="260" alt="App Screenshot">
+<img src= "https://user-images.githubusercontent.com/10834045/37006038-4d8977b0-20ce-11e8-9988-3e0e8370ba65.png" width="900" alt="App Collection">
